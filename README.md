@@ -9,7 +9,7 @@
 ```javascript
 const omar_dev = {
     role: "Junior Backend Developer",
-    code: ["Javascript", "TypeScript", "Rust", "Go"],
+    code: ["Javascript", "TypeScript", C,"Rust", "Go"],
     backend_stack: {
         runtime: "Node.js",
         framework: "Express",
