@@ -12,8 +12,8 @@ const omar_dev = {
     code: ["Javascript", "TypeScript", "C","Rust", "Go"],
     backend_stack: {
         runtime: "Node.js",
-        framework: "Express",
-        db: ["MongoDB", "Firebase"]
+        framework: ["Express","Nest"]
+        db: ["MongoDB", "Postegresql"]
     },
     editor: "Project IDX",
     current_focus: "Building Scalable & Organized Architectures",
