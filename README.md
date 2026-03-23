@@ -12,7 +12,7 @@ const omar_dev = {
     code: ["Javascript", "TypeScript", "C","Rust", "Go"],
     backend_stack: {
         runtime: "Node.js",
-        framework: ["Express","Nest"]
+        framework: ["Express","Nest"],
         db: ["MongoDB", "Postegresql"]
     },
     editor: "Project IDX",
